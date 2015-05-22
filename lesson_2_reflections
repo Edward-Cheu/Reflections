@@ -1,0 +1,4 @@
+Initializing your directory helps you create a repository in Git. 
+
+By doing git init, together with commit, you can track your commit logs.
+
