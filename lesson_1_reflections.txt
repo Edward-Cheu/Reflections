@@ -1,0 +1,37 @@
+Using version control is an interesting concept.
+
+I like how the diff function has '+','-' and '' to tell the changes made (or not).
+
+Hence, this helps to save a lot of time when identifying the bug.
+
+And that's cool!
+
+I love to save time.
+
+:)
+
+Hmm.. that's an interesting question.
+
+Initially, I thought it kinda looks a bit messy.
+
+But then again, I guess it'd be useful when I made some mistakes.
+
+As it would help me revert to an older version.
+
+Thus, saving proofreading time.
+
+I'd think that saving manually would be good as we can save scripts with logical difference.
+
+But forgeting to save could be a potential limitation to manual savings too.
+
+Tracking multiple files at one go allows the user to track simultaneous changes.
+
+git log tells you what changes have been made.
+
+git diff tells you the difference between the two IDs
+
+git log --stat is really a combination of log and diff
+
+Well with git checkout, i get to revert back to a older workable version which is reassuring.
+
+Now that I've my workspace set up, I'd like to try some commits.
